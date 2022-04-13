@@ -1,2 +1,2 @@
 # PHPDB01
- Primeiras atividades com PHP e banco de dados.
+ Primeiras atividades com PHP e banco dedados
